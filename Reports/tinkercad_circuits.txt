@@ -1,4 +1,4 @@
-Here are the links of the circuits we designed for our research on tinkercad:
+Here are the links of the circuits we designed for our research on Tinkercad:
 
 1) https://www.tinkercad.com/things/d15KX9Mi8hk-pwm-arduino-motor
 2) https://www.tinkercad.com/things/lb6fJ6JqZ8F-pwm-555-timer-motor?sharecode=MdaWaTK2B1obdx8XK_l34BdP99f77imViVCWYkuIz2c
